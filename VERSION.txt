@@ -1,0 +1,4 @@
+V56.27 FROZEN — COA + Questionnaire Check Banners (Display-Only)
+Present: V56.27
+Fallback: V55 — V55-D365FO-Master-Integration-2026-11-09
+Do NOT overwrite. New fix = new version.
